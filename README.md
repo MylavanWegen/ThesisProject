@@ -1,3 +1,0 @@
-# ThesisProject
-
-For tutorial purposes
